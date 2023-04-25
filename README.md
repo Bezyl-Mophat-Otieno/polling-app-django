@@ -2,6 +2,14 @@
 
 The polling-app-django is a web application that allows users to create and participate in polls.
 
+##Skills Learnt 
+- Django Rest Framework
+- User auhentication in django .
+- Routes protection in django .
+- MTV Design Pattern used by django .
+- Django ORM .
+
+
 ## Table of Contents
 
 - [Overview](#overview)
